@@ -84,7 +84,8 @@ You can add multiple IDs seperated by space.
 
 * `FREE_USER_MAX_FILE_SIZE`: The file_size that was [supposed to be allowed](https://t.me/c/1331081386/147445) by the bot.
 
-* `MAX_TG_SPLIT_FILE_SIZE`: The file_size at which it should be splitted if the file_size is greater than  `TG_MAX_FILE_SIZE`.
+* `MAX_TG_SPLIT_FILE_SIZE`: The file_size at which it should be splitted if the file_size is greater than 8Gygabytes
+*   `TG_MAX_FILE_SIZE`.
 
 * `CHUNK_SIZE`: ~~not used~~, kept for [legacy purposes](https://t.me/c/1235155926/33801).
 
